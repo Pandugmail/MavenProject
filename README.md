@@ -1,1 +1,1 @@
-# create new WAR project
+# create new WAR project and integrate it with Jenkins
